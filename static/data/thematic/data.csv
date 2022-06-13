@@ -1,38 +1,37 @@
-country	id	value	extraInfo
-Albania	AL	null	FALSE
-Austria	AT	0.222037736	FALSE
-Belgium	BE	0.101653565	FALSE
-Bulgaria	BG	0.140440016	FALSE
-Switzerland	CH	null	FALSE
-Cyprus	CY	0.032627361	FALSE
-Czechia	CZ	0.102187029	FALSE
-Germany	DE	0.146892655	FALSE
-Denmark	DK	0.065905849	FALSE
-Estonia	EE	0.15508982	FALSE
-Greece	EL	0.083276152	FALSE
-Spain	ES	0.08581829	FALSE
-Finland	FI	0.088111044	FALSE
-France	FR	0.156006309	FALSE
-Croatia	HR	0.105310129	FALSE
-Hungary	HU	0.126302326	FALSE
-Ireland	IE	0.085199186	FALSE
-Iceland	IS	null	FALSE
-Italy	IT	0.079426731	FALSE
-Liechtenstein	LI	null	FALSE
-Lithuania	LT	0.122871208	FALSE
-Luxembourg	LU	0.152284264	FALSE
-Latvia	LV	0.095238095	FALSE
-Montenegro	ME	null	FALSE
-North Macedonia	MK	null	FALSE
-Malta	MT	0.070891515	FALSE
-Netherlands	NL	0.086925287	FALSE
-Norway	NO	null	FALSE
-Poland	PL	0.203133196	FALSE
-Portugal	PT	0.042049579	FALSE
-Romania	RO	0.074490872	FALSE
-Serbia	RS	null	FALSE
-Sweden	SE	0.101048618	FALSE
-Slovenia	SI	0.091416309	FALSE
-Slovakia	SK	0.189789556	FALSE
-United Kingdom	UK	null	FALSE
-Ukraine	UA	null	FALSE
+Albania	AL	null
+Austria	AT	0.222037736
+Belgium	BE	0.101653565
+Bulgaria	BG	0.140440016
+Switzerland	CH	null
+Cyprus	CY	0.032627361
+Czechia	CZ	0.102187029
+Germany	DE	0.146892655
+Denmark	DK	0.065905849
+Estonia	EE	0.15508982
+Greece	EL	0.083276152
+Spain	ES	0.08581829
+Finland	FI	0.088111044
+France	FR	0.156006309
+Croatia	HR	0.105310129
+Hungary	HU	0.126302326
+Ireland	IE	0.085199186
+Iceland	IS	null
+Italy	IT	0.079426731
+Liechtenstein	LI	null
+Lithuania	LT	0.122871208
+Luxembourg	LU	0.152284264
+Latvia	LV	0.095238095
+Montenegro	ME	null
+North Macedonia	MK	null
+Malta	MT	0.070891515
+Netherlands	NL	0.086925287
+Norway	NO	null
+Poland	PL	0.203133196
+Portugal	PT	0.042049579
+Romania	RO	0.074490872
+Serbia	RS	null
+Sweden	SE	0.101048618
+Slovenia	SI	0.091416309
+Slovakia	SK	0.189789556
+United Kingdom	UK	null
+Ukraine	UA	null
