@@ -1,3 +1,4 @@
+country	id	value
 Albania	AL	null
 Austria	AT	0.222037736
 Belgium	BE	0.101653565
@@ -33,7 +34,5 @@ Serbia	RS	null
 Sweden	SE	0.101048618
 Slovenia	SI	0.091416309
 Slovakia	SK	0.189789556
-United Kingdom	UK	null
-Ukraine	UA	null
 United Kingdom	UK	null
 Ukraine	UA	null
