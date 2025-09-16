@@ -1,13 +1,23 @@
 {
-  "heading": "Junglandwirte in der EU – ist diese Kompetenz bei jungen Leuten beliebt?",
-  "subheading": "Im Jahr 2020 machen Junglandwirte unter 40 Jahren 11,9 % aller Landwirte in der Europäischen Union aus – wie hoch ist der Anteil in den einzelnen EU-Ländern?",
+  "heading": "Junglandwirte in der EU: Ist der Beruf für junge Menschen noch attraktiv?",
+  "subheading": "Im Jahr 2020 machten Junglandwirte unter 40 Jahren 11,9 % aller Landwirte in der Europäischen Union aus – wie hoch ist der Anteil in den einzelnen EU-Ländern?",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "der Gesamtzahl der Landwirte",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
   "textNote": "Landwirte und landwirtschaftliche Arbeitskräfte: Tabellen und Abbildungen",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen",
+  "extraInfoText_FR": "Daten aus dem Jahr 2016",
+  "extraInfoLink_FR": "",
+  "extraInfoText_HR": "Daten aus dem Jahr 2016",
+  "extraInfoLink_HR": "",
+  "extraInfoText_IT": "Daten aus dem Jahr 2016",
+  "extraInfoLink_IT": "",
+  "extraInfoText_SI": "Daten aus dem Jahr 2016",
+  "extraInfoLink_SI": "",
+  "extraInfoText_SK": "Daten aus dem Jahr 2016",
+  "extraInfoLink_SK": ""
 }

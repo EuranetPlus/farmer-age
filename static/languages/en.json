@@ -1,5 +1,5 @@
 {
-  "heading": "Young farmers in the EU - is this proficiency popular among young people?",
+  "heading": "Young farmers in the EU: Is the profession still appealing to young people?",
   "subheading": "In 2020 young farmers under the age of 40 years account for 11.9% of all farmers in the European Union - how is the share in each EU country?",
   "legend1": "No data available",
   "tooltip1": "of total number of farmers",
@@ -9,5 +9,15 @@
   "textNote": "Farmers and the agricultural labour force: tables and figures",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Click for more info"
+  "textCountryClick": "Click for more info",
+  "extraInfoText_FR": "Data from 2016",
+  "extraInfoLink_FR": "",
+  "extraInfoText_HR": "Data from 2016",
+  "extraInfoLink_HR": "",
+  "extraInfoText_IT": "Data from 2016",
+  "extraInfoLink_IT": "",
+  "extraInfoText_SI": "Data from 2016",
+  "extraInfoLink_SI": "",
+  "extraInfoText_SK": "Data from 2016",
+  "extraInfoLink_SK": ""
 }

@@ -1,6 +1,6 @@
 {
-  "heading": "Jonge boeren in de EU: is deze vaardigheid populair onder jongeren?",
-  "subheading": "In 2020 vormen jonge boeren onder de 40 jaar 11,9% van alle boeren in de Europese Unie. Hoe is het aandeel in elk EU-land?",
+  "heading": "Jonge boeren in de EU: is het beroep nog steeds aantrekkelijk voor jongeren?",
+  "subheading": "In 2020 vormden jonge boeren onder de 40 jaar 11,9% van alle boeren in de Europese Unie. Hoe groot is dit aandeel in de verschillende EU-landen?",
   "legend1": "Geen gegevens beschikbaar",
   "tooltip1": "van het totale aantal boeren",
   "textSourceDescription": "Bron",
@@ -9,5 +9,15 @@
   "textNote": "Boeren en de agrarische beroepsbevolking: tabellen en figuren",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Klik voor meer informatie"
+  "textCountryClick": "Klik voor meer informatie",
+  "extraInfoText_FR": "Gegevens uit 2016",
+  "extraInfoLink_FR": "",
+  "extraInfoText_HR": "Gegevens uit 2016",
+  "extraInfoLink_HR": "",
+  "extraInfoText_IT": "Gegevens uit 2016",
+  "extraInfoLink_IT": "",
+  "extraInfoText_SI": "Gegevens uit 2016",
+  "extraInfoLink_SI": "",
+  "extraInfoText_SK": "Gegevens uit 2016",
+  "extraInfoLink_SK": ""
 }

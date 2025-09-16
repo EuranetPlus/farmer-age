@@ -1,13 +1,23 @@
 {
-  "heading": "Nuoret maanviljelijät EU:ssa – onko tämä taito suosittu nuorten keskuudessa?",
-  "subheading": "Vuonna 2020 nuoria alle 40-vuotiaita viljelijöitä on 11,9 % kaikista Euroopan unionin viljelijöistä – mikä on osuus kussakin EU-maassa?",
-  "legend1": "Tietoja ei ole saatavilla",
+  "heading": "Nuoret maanviljelijät EU:ssa: Onko ammatti edelleen houkutteleva nuorille?",
+  "subheading": "Vuonna 2020 alle 40-vuotiaat nuoret viljelijät muodostivat 11,9 % kaikista viljelijöistä Euroopan unionissa – mikä on osuudet kussakin EU-maassa?",
+  "legend1": "Ei tietoja saatavilla",
   "tooltip1": "viljelijöiden kokonaismäärästä",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
-  "textNote": "Maanviljelijät ja maatalouden työvoima: taulukoita ja kuvioita",
+  "textNote": "Viljelijät ja maatalouden työvoima: taulukot ja luvut",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Napsauta saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja",
+  "extraInfoText_FR": "Tiedot vuodelta 2016",
+  "extraInfoLink_FR": "",
+  "extraInfoText_HR": "Tiedot vuodelta 2016",
+  "extraInfoLink_HR": "",
+  "extraInfoText_IT": "Tiedot vuodelta 2016",
+  "extraInfoLink_IT": "",
+  "extraInfoText_SI": "Tiedot vuodelta 2016",
+  "extraInfoLink_SI": "",
+  "extraInfoText_SK": "Tiedot vuodelta 2016",
+  "extraInfoLink_SK": ""
 }

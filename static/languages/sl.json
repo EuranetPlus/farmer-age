@@ -1,13 +1,23 @@
 {
-  "heading": "Mladi kmetje v EU - ali je to znanje priljubljeno med mladimi?",
-  "subheading": "Leta 2020 so mladi kmetje, mlajši od 40 let, predstavljali 11,9 % vseh kmetov v Evropski uniji – kakšen je delež v posamezni državi EU?",
-  "legend1": "Ni podatkov",
+  "heading": "Mladi kmetje v EU: Ali je poklic še vedno privlačen za mlade?",
+  "subheading": "Leta 2020 so mladi kmetje, mlajši od 40 let, predstavljali 11,9 % vseh kmetov v Evropski uniji – kakšen je delež v posameznih državah EU?",
+  "legend1": "Ni na voljo podatkov",
   "tooltip1": "skupnega števila kmetov",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
   "textNote": "Kmetje in kmetijska delovna sila: tabele in slike",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Kliknite za več informacij"
+  "textCountryClick": "Kliknite za več informacij",
+  "extraInfoText_FR": "Podatki iz leta 2016",
+  "extraInfoLink_FR": "",
+  "extraInfoText_HR": "Podatki iz leta 2016",
+  "extraInfoLink_HR": "",
+  "extraInfoText_IT": "Podatki iz leta 2016",
+  "extraInfoLink_IT": "",
+  "extraInfoText_SI": "Podatki iz leta 2016",
+  "extraInfoLink_SI": "",
+  "extraInfoText_SK": "Podatki iz leta 2016",
+  "extraInfoLink_SK": ""
 }

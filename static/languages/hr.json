@@ -1,13 +1,23 @@
 {
-  "heading": "Mladi poljoprivrednici u EU - je li ovo znanje popularno među mladima?",
-  "subheading": "Godine 2020. mladi poljoprivrednici ispod 40 godina starosti činili su 11,9% svih poljoprivrednika u Europskoj uniji – koliki je udio u svakoj zemlji EU?",
+  "heading": "Mladi poljoprivrednici u EU: Je li profesija još uvijek privlačna mladima?",
+  "subheading": "U 2020. godini mladi poljoprivrednici mlađi od 40 godina čine 11,9% svih poljoprivrednika u Europskoj uniji - kakav je udio u svakoj zemlji EU?",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "od ukupnog broja poljoprivrednika",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
   "textNote": "Poljoprivrednici i poljoprivredna radna snaga: tablice i slike",
-  "textDataAccess": "Pristupite podacima",
+  "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Kliknite za više informacija"
+  "textCountryClick": "Kliknite za više informacija",
+  "extraInfoText_FR": "Podaci iz 2016.",
+  "extraInfoLink_FR": "",
+  "extraInfoText_HR": "Podaci iz 2016.",
+  "extraInfoLink_HR": "",
+  "extraInfoText_IT": "Podaci iz 2016.",
+  "extraInfoLink_IT": "",
+  "extraInfoText_SI": "Podaci iz 2016.",
+  "extraInfoLink_SI": "",
+  "extraInfoText_SK": "Podaci iz 2016.",
+  "extraInfoLink_SK": ""
 }

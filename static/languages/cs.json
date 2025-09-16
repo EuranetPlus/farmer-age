@@ -1,13 +1,23 @@
 {
-  "heading": "Mladí zemědělci v EU – je tato dovednost mezi mladými lidmi oblíbená?",
-  "subheading": "V roce 2020 budou mladí zemědělci ve věku do 40 let představovat 11,9 % všech zemědělců v Evropské unii – jaký je podíl v jednotlivých zemích EU?",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "heading": "Mladí zemědělci v EU: Je toto povolání stále atraktivní pro mladé lidi?",
+  "subheading": "V roce 2020 tvořili mladí zemědělci mladší 40 let 11,9 % všech zemědělců v Evropské unii – jaký je podíl v jednotlivých zemích EU?",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltip1": "z celkového počtu zemědělců",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Zemědělci a zemědělská pracovní síla: tabulky a čísla",
+  "textNote": "Zemědělci a zemědělská pracovní síla: tabulky a obrázky",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Klikněte pro více informací"
+  "textCountryClick": "Klikněte pro více informací",
+  "extraInfoText_FR": "Data z roku 2016",
+  "extraInfoLink_FR": "",
+  "extraInfoText_HR": "Data z roku 2016",
+  "extraInfoLink_HR": "",
+  "extraInfoText_IT": "Data z roku 2016",
+  "extraInfoLink_IT": "",
+  "extraInfoText_SI": "Data z roku 2016",
+  "extraInfoLink_SI": "",
+  "extraInfoText_SK": "Data z roku 2016",
+  "extraInfoLink_SK": ""
 }

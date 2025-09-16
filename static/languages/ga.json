@@ -1,13 +1,23 @@
 {
-  "heading": "Feirmeoirí óga san AE - an bhfuil an-tóir ar an inniúlacht seo i measc daoine óga?",
-  "subheading": "In 2020 is feirmeoirí óga faoi 40 bliain d’aois iad 11.9% d’fheirmeoirí uile an Aontais Eorpaigh – conas atá an sciar i ngach tír san AE?",
+  "heading": "Feirmeoirí óga san AE: An bhfuil an ghairm fós tarraingteach do dhaoine óga?",
+  "subheading": "Sa bhliain 2020, ba ionann feirmeoirí óga faoi bhun 40 bliain d'aois agus 11.9% de na feirmeoirí uile san Aontas Eorpach - cén chaoi a bhfuil an sciar sin i ngach tír san AE?",
   "legend1": "Níl aon sonraí ar fáil",
-  "tooltip1": "de líon iomlán na bhfeirmeoirí",
+  "tooltip1": "líon iomlán na bhfeirmeoirí",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
   "textNote": "Feirmeoirí agus an lucht saothair talmhaíochta: táblaí agus figiúirí",
-  "textDataAccess": "Faigh rochtain ar na sonraí",
+  "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
+  "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais",
+  "extraInfoText_FR": "Sonraí ó 2016",
+  "extraInfoLink_FR": "",
+  "extraInfoText_HR": "Sonraí ó 2016",
+  "extraInfoLink_HR": "",
+  "extraInfoText_IT": "Sonraí ó 2016",
+  "extraInfoLink_IT": "",
+  "extraInfoText_SI": "Sonraí ó 2016",
+  "extraInfoLink_SI": "",
+  "extraInfoText_SK": "Sonraí ó 2016",
+  "extraInfoLink_SK": ""
 }

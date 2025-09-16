@@ -1,13 +1,23 @@
 {
-  "heading": "Giovani agricoltori nell’UE: questa competenza è popolare tra i giovani?",
-  "subheading": "Nel 2020 i giovani agricoltori di età inferiore ai 40 anni rappresentano l'11,9% di tutti gli agricoltori dell'Unione europea: qual è la percentuale in ciascun paese dell'UE?",
+  "heading": "Giovani agricoltori nell'UE: la professione è ancora attraente per i giovani?",
+  "subheading": "Nel 2020 i giovani agricoltori di età inferiore ai 40 anni rappresentavano l'11,9% di tutti gli agricoltori dell'Unione europea: qual è la percentuale in ciascun paese dell'UE?",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "del numero totale di agricoltori",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Gli agricoltori e la forza lavoro agricola: tabelle e cifre",
+  "textNote": "Agricoltori e forza lavoro agricola: tabelle e figure",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Fare clic per maggiori informazioni"
+  "textCountryClick": "Clicca per maggiori informazioni",
+  "extraInfoText_FR": "Dati del 2016",
+  "extraInfoLink_FR": "",
+  "extraInfoText_HR": "Dati del 2016",
+  "extraInfoLink_HR": "",
+  "extraInfoText_IT": "Dati del 2016",
+  "extraInfoLink_IT": "",
+  "extraInfoText_SI": "Dati del 2016",
+  "extraInfoLink_SI": "",
+  "extraInfoText_SK": "Dati del 2016",
+  "extraInfoLink_SK": ""
 }
