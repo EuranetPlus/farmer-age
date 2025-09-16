@@ -1,6 +1,6 @@
 {
   "heading": "Młodzi rolnicy w UE: Czy zawód ten jest nadal atrakcyjny dla młodych ludzi?",
-  "subheading": "W 2020 r. młodzi rolnicy poniżej 40. roku życia stanowili 11,9% wszystkich rolników w Unii Europejskiej. Jaki jest odsetek w poszczególnych krajach UE?",
+  "subheading": "W 2020 r. młodzi rolnicy w wieku poniżej 40 lat stanowili 11,9% wszystkich rolników w Unii Europejskiej. Jaki jest odsetek w poszczególnych krajach UE?",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "całkowitej liczby rolników",
   "textSourceDescription": "Źródło",
@@ -9,15 +9,5 @@
   "textNote": "Rolnicy i siła robocza w rolnictwie: tabele i rysunki",
   "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Kliknij, aby uzyskać więcej informacji",
-  "extraInfoText_FR": "Dane z 2016 roku",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "Dane z 2016 roku",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "Dane z 2016 roku",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "Dane z 2016 roku",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "Dane z 2016 roku",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
 }

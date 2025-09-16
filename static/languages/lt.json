@@ -9,15 +9,5 @@
   "textNote": "Ūkininkai ir žemės ūkio darbo jėga: lentelės ir paveikslai",
   "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos",
-  "extraInfoText_FR": "2016 m. duomenys",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "2016 m. duomenys",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "2016 m. duomenys",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "2016 m. duomenys",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "2016 m. duomenys",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

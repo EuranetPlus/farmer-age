@@ -9,15 +9,5 @@
   "textNote": "Agricoltori e forza lavoro agricola: tabelle e figure",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Clicca per maggiori informazioni",
-  "extraInfoText_FR": "Dati del 2016",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "Dati del 2016",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "Dati del 2016",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "Dati del 2016",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "Dati del 2016",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Clicca per maggiori informazioni"
 }

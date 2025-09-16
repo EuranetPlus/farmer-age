@@ -9,15 +9,5 @@
   "textNote": "Fermierii și forța de muncă agricolă: tabele și figuri",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Faceți clic pentru mai multe informații",
-  "extraInfoText_FR": "Date din 2016",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "Date din 2016",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "Date din 2016",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "Date din 2016",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "Date din 2016",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Faceți clic pentru mai multe informații"
 }

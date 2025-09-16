@@ -9,15 +9,5 @@
   "textNote": "Põllumajandustootjad ja põllumajanduslik tööjõud: tabelid ja joonised",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Lisateabe saamiseks klõpsake",
-  "extraInfoText_FR": "Andmed aastast 2016",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "Andmed aastast 2016",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "Andmed aastast 2016",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "Andmed aastast 2016",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "Andmed aastast 2016",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Lisateabe saamiseks klõpsake"
 }

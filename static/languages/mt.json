@@ -9,15 +9,5 @@
   "textNote": "Il-bdiewa u l-forza tax-xogħol agrikola: tabelli u figuri",
   "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Ikklikkja għal aktar tagħrif",
-  "extraInfoText_FR": "Dejta mill-2016",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "Dejta mill-2016",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "Dejta mill-2016",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "Dejta mill-2016",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "Dejta mill-2016",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Ikklikkja għal aktar tagħrif"
 }

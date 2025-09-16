@@ -9,15 +9,5 @@
   "textNote": "Viljelijät ja maatalouden työvoima: taulukot ja luvut",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Klikkaa saadaksesi lisätietoja",
-  "extraInfoText_FR": "Tiedot vuodelta 2016",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "Tiedot vuodelta 2016",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "Tiedot vuodelta 2016",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "Tiedot vuodelta 2016",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "Tiedot vuodelta 2016",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
 }

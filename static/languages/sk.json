@@ -9,15 +9,5 @@
   "textNote": "Poľnohospodári a poľnohospodárska pracovná sila: tabuľky a obrázky",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Kliknite pre viac informácií",
-  "extraInfoText_FR": "Údaje z roku 2016",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "Údaje z roku 2016",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "Údaje z roku 2016",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "Údaje z roku 2016",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "Údaje z roku 2016",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Kliknite pre viac informácií"
 }

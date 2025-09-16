@@ -9,15 +9,5 @@
   "textNote": "Poljoprivrednici i poljoprivredna radna snaga: tablice i slike",
   "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Kliknite za više informacija",
-  "extraInfoText_FR": "Podaci iz 2016.",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "Podaci iz 2016.",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "Podaci iz 2016.",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "Podaci iz 2016.",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "Podaci iz 2016.",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Kliknite za više informacija"
 }

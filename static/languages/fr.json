@@ -9,15 +9,5 @@
   "textNote": "Les agriculteurs et la main-d'œuvre agricole : tableaux et figures",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Cliquez pour plus d'informations",
-  "extraInfoText_FR": "Données de 2016",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "Données de 2016",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "Données de 2016",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "Données de 2016",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "Données de 2016",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Cliquez pour plus d'informations"
 }

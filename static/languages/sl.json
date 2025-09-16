@@ -9,15 +9,5 @@
   "textNote": "Kmetje in kmetijska delovna sila: tabele in slike",
   "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Kliknite za več informacij",
-  "extraInfoText_FR": "Podatki iz leta 2016",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "Podatki iz leta 2016",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "Podatki iz leta 2016",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "Podatki iz leta 2016",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "Podatki iz leta 2016",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Kliknite za več informacij"
 }

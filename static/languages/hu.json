@@ -6,18 +6,8 @@
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
   "textNoteDescription": "Jegyzet",
-  "textNote": "A gazdálkodók és a mezőgazdasági munkaerő: táblázatok és ábrák",
+  "textNote": "Gazdálkodók és a mezőgazdasági munkaerő: táblázatok és ábrák",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Kattintson a további információkért",
-  "extraInfoText_FR": "2016-os adatok",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "2016-os adatok",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "2016-os adatok",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "2016-os adatok",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "2016-os adatok",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Kattintson a további információkért"
 }

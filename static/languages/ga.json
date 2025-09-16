@@ -9,15 +9,5 @@
   "textNote": "Feirmeoirí agus an lucht saothair talmhaíochta: táblaí agus figiúirí",
   "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais",
-  "extraInfoText_FR": "Sonraí ó 2016",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "Sonraí ó 2016",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "Sonraí ó 2016",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "Sonraí ó 2016",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "Sonraí ó 2016",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
 }

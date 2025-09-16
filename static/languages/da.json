@@ -9,15 +9,5 @@
   "textNote": "Landmænd og landbrugets arbejdsstyrke: tabeller og figurer",
   "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Klik for mere information",
-  "extraInfoText_FR": "Data fra 2016",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "Data fra 2016",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "Data fra 2016",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "Data fra 2016",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "Data fra 2016",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Klik for mere information"
 }

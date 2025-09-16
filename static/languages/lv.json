@@ -9,15 +9,5 @@
   "textNote": "Lauksaimnieki un lauksaimniecības darbaspēks: tabulas un attēli",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju",
-  "extraInfoText_FR": "2016. gada dati",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "2016. gada dati",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "2016. gada dati",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "2016. gada dati",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "2016. gada dati",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

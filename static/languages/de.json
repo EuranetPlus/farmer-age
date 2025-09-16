@@ -9,15 +9,5 @@
   "textNote": "Landwirte und landwirtschaftliche Arbeitskräfte: Tabellen und Abbildungen",
   "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen",
-  "extraInfoText_FR": "Daten aus dem Jahr 2016",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "Daten aus dem Jahr 2016",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "Daten aus dem Jahr 2016",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "Daten aus dem Jahr 2016",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "Daten aus dem Jahr 2016",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }

@@ -1,6 +1,6 @@
 {
   "heading": "Νέοι αγρότες στην ΕΕ: Εξακολουθεί να είναι το επάγγελμα ελκυστικό για τους νέους;",
-  "subheading": "Το 2020, οι νέοι αγρότες κάτω των 40 ετών αντιπροσωπεύουν το 11,9% όλων των αγροτών στην Ευρωπαϊκή Ένωση - πώς είναι το ποσοστό σε κάθε χώρα της ΕΕ;",
+  "subheading": "Το 2020, οι νέοι αγρότες κάτω των 40 ετών αντιπροσωπεύουν το 11,9% όλων των αγροτών στην Ευρωπαϊκή Ένωση - πώς διαμορφώνεται το ποσοστό σε κάθε χώρα της ΕΕ;",
   "legend1": "Δεν υπάρχουν διαθέσιμα δεδομένα",
   "tooltip1": "του συνολικού αριθμού αγροτών",
   "textSourceDescription": "Πηγή",
@@ -9,15 +9,5 @@
   "textNote": "Αγρότες και γεωργικό εργατικό δυναμικό: πίνακες και σχήματα",
   "textDataAccess": "Πρόσβαση στα δεδομένα",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες",
-  "extraInfoText_FR": "Δεδομένα από το 2016",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "Δεδομένα από το 2016",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "Δεδομένα από το 2016",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "Δεδομένα από το 2016",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "Δεδομένα από το 2016",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Κάντε κλικ για περισσότερες πληροφορίες"
 }

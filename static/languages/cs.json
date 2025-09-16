@@ -9,15 +9,5 @@
   "textNote": "Zemědělci a zemědělská pracovní síla: tabulky a obrázky",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Klikněte pro více informací",
-  "extraInfoText_FR": "Data z roku 2016",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "Data z roku 2016",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "Data z roku 2016",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "Data z roku 2016",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "Data z roku 2016",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Klikněte pro více informací"
 }

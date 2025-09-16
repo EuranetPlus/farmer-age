@@ -9,15 +9,5 @@
   "textNote": "Jordbrukare och jordbruksarbetskraften: tabeller och figurer",
   "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
-  "textCountryClick": "Klicka för mer information",
-  "extraInfoText_FR": "Data från 2016",
-  "extraInfoLink_FR": "",
-  "extraInfoText_HR": "Data från 2016",
-  "extraInfoLink_HR": "",
-  "extraInfoText_IT": "Data från 2016",
-  "extraInfoLink_IT": "",
-  "extraInfoText_SI": "Data från 2016",
-  "extraInfoLink_SI": "",
-  "extraInfoText_SK": "Data från 2016",
-  "extraInfoLink_SK": ""
+  "textCountryClick": "Klicka för mer information"
 }
