@@ -1,6 +1,6 @@
 {
   "heading": "Млади фермери в ЕС: Професията все още ли е привлекателна за младите хора?",
-  "subheading": "През 2020 г. младите фермери под 40-годишна възраст представляват 11,9% от всички фермери в Европейския съюз - какъв е делът във всяка страна от ЕС?",
+  "subheading": "През 2023 г. младите фермери под 40-годишна възраст представляват 13,1% от всички фермери в Европейския съюз - какъв е делът във всяка страна от ЕС?",
   "legend1": "Няма налични данни",
   "tooltip1": "от общия брой на земеделските производители",
   "textSourceDescription": "Източник",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Забележка",
   "textNote": "Земеделски производители и селскостопанска работна сила: таблици и фигури",
   "textDataAccess": "Достъп до данните",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
   "textCountryClick": "Кликнете за повече информация"
 }

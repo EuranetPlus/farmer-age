@@ -1,6 +1,6 @@
 {
   "heading": "Noored põllumajandustootjad ELis: kas see elukutse on noortele endiselt atraktiivne?",
-  "subheading": "2020. aastal moodustasid alla 40-aastased noored põllumajandustootjad 11,9% kõigist Euroopa Liidu põllumajandustootjatest – milline on see osakaal igas ELi riigis?",
+  "subheading": "2023. aastal moodustasid alla 40-aastased noored põllumajandustootjad 13,1% kõigist Euroopa Liidu põllumajandustootjatest – milline on see osakaal igas ELi riigis?",
   "legend1": "Andmed pole saadaval",
   "tooltip1": "põllumajandustootjate koguarvust",
   "textSourceDescription": "Allikas",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Märkus",
   "textNote": "Põllumajandustootjad ja põllumajanduslik tööjõud: tabelid ja joonised",
   "textDataAccess": "Juurdepääs andmetele",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
   "textCountryClick": "Lisateabe saamiseks klõpsake"
 }

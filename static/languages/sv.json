@@ -1,6 +1,6 @@
 {
   "heading": "Unga jordbrukare i EU: Är yrket fortfarande lockande för unga människor?",
-  "subheading": "År 2020 stod unga jordbrukare under 40 år för 11,9 % av alla jordbrukare i Europeiska unionen – hur ser andelen ut i varje EU-land?",
+  "subheading": "År 2023 står unga jordbrukare under 40 år för 13,1 % av alla jordbrukare i Europeiska unionen – hur ser andelen ut i varje EU-land?",
   "legend1": "Inga data tillgängliga",
   "tooltip1": "av det totala antalet jordbrukare",
   "textSourceDescription": "Källa",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Notera",
   "textNote": "Jordbrukare och jordbruksarbetskraften: tabeller och figurer",
   "textDataAccess": "Åtkomst till data",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
   "textCountryClick": "Klicka för mer information"
 }

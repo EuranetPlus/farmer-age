@@ -1,6 +1,6 @@
 {
   "heading": "Jaunieji ūkininkai ES: ar ši profesija vis dar patraukli jaunimui?",
-  "subheading": "2020 m. jaunieji ūkininkai iki 40 metų sudarė 11,9 % visų Europos Sąjungos ūkininkų. Kokia ši dalis kiekvienoje ES šalyje?",
+  "subheading": "2023 m. jaunieji ūkininkai iki 40 metų sudarė 13,1 % visų Europos Sąjungos ūkininkų. Kokia ši dalis kiekvienoje ES šalyje?",
   "legend1": "Nėra duomenų",
   "tooltip1": "nuo bendro ūkininkų skaičiaus",
   "textSourceDescription": "Šaltinis",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Pastaba",
   "textNote": "Ūkininkai ir žemės ūkio darbo jėga: lentelės ir paveikslai",
   "textDataAccess": "Prieiga prie duomenų",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

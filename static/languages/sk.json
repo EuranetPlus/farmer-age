@@ -1,6 +1,6 @@
 {
   "heading": "Mladí farmári v EÚ: Je toto povolanie stále atraktívne pre mladých ľudí?",
-  "subheading": "V roku 2020 tvorili mladí poľnohospodári vo veku do 40 rokov 11,9 % všetkých poľnohospodárov v Európskej únii – aký je podiel v jednotlivých krajinách EÚ?",
+  "subheading": "V roku 2023 tvorili mladí poľnohospodári vo veku do 40 rokov 13,1 % všetkých poľnohospodárov v Európskej únii – aký je podiel v jednotlivých krajinách EÚ?",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "z celkového počtu farmárov",
   "textSourceDescription": "Zdroj",
@@ -8,6 +8,6 @@
   "textNoteDescription": "Poznámka",
   "textNote": "Poľnohospodári a poľnohospodárska pracovná sila: tabuľky a obrázky",
   "textDataAccess": "Prístup k údajom",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/statistics-explained/images/5/56/SE_Farmers_and_the_agricultural_labour_force_.xlsx",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
   "textCountryClick": "Kliknite pre viac informácií"
 }
