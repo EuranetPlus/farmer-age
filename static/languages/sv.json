@@ -9,5 +9,10 @@
   "textNote": "Jordbrukare och jordbruksarbetskraften: tabeller och figurer",
   "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Klicka för mer information"
+  "textCountryClick": "Klicka för mer information",
+  "title": "Unga jordbrukare i EU: Är yrket fortfarande lockande för unga människor?",
+  "subtitle": "År 2023 står unga jordbrukare under 40 år för 13,1 % av alla jordbrukare i Europeiska unionen – hur ser andelen ut i varje EU-land?",
+  "linkDataAccessDescription": "Åtkomst till data",
+  "customUnitLabel": "av det totala antalet jordbrukare",
+  "tooltipExtraInfoLabel": "Klicka för mer information"
 }

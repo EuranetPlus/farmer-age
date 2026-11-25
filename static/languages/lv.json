@@ -9,5 +9,10 @@
   "textNote": "Lauksaimnieki un lauksaimniecības darbaspēks: tabulas un attēli",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"
+  "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju",
+  "title": "Jaunie lauksaimnieki ES: vai šī profesija joprojām ir pievilcīga jauniešiem?",
+  "subtitle": "2023. gadā jaunie lauksaimnieki, kas jaunāki par 40 gadiem, veidoja 13,1% no visiem lauksaimniekiem Eiropas Savienībā — kāda ir šī daļa katrā ES valstī?",
+  "linkDataAccessDescription": "Piekļūstiet datiem",
+  "customUnitLabel": "no kopējā lauksaimnieku skaita",
+  "tooltipExtraInfoLabel": "Noklikšķiniet, lai iegūtu plašāku informāciju"
 }

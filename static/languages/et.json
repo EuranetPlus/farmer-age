@@ -9,5 +9,10 @@
   "textNote": "Põllumajandustootjad ja põllumajanduslik tööjõud: tabelid ja joonised",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Lisateabe saamiseks klõpsake"
+  "textCountryClick": "Lisateabe saamiseks klõpsake",
+  "title": "Noored põllumajandustootjad ELis: kas see elukutse on noortele endiselt atraktiivne?",
+  "subtitle": "2023. aastal moodustasid alla 40-aastased noored põllumajandustootjad 13,1% kõigist Euroopa Liidu põllumajandustootjatest – milline on see osakaal igas ELi riigis?",
+  "linkDataAccessDescription": "Juurdepääs andmetele",
+  "customUnitLabel": "põllumajandustootjate koguarvust",
+  "tooltipExtraInfoLabel": "Lisateabe saamiseks klõpsake"
 }

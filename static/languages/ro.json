@@ -9,5 +9,10 @@
   "textNote": "Fermierii și forța de muncă agricolă: tabele și figuri",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Faceți clic pentru mai multe informații"
+  "textCountryClick": "Faceți clic pentru mai multe informații",
+  "title": "Tinerii fermieri din UE: Este profesia încă atractivă pentru tineri?",
+  "subtitle": "În 2023, tinerii fermieri cu vârsta sub 40 de ani reprezentau 13,1% din totalul fermierilor din Uniunea Europeană - care este ponderea în fiecare țară a UE?",
+  "linkDataAccessDescription": "Accesați datele",
+  "customUnitLabel": "din numărul total de fermieri",
+  "tooltipExtraInfoLabel": "Faceți clic pentru mai multe informații"
 }

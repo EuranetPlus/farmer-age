@@ -9,5 +9,10 @@
   "textNote": "Agricoltori e forza lavoro agricola: tabelle e cifre",
   "textDataAccess": "Accedere ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Clicca per maggiori informazioni"
+  "textCountryClick": "Clicca per maggiori informazioni",
+  "title": "Giovani agricoltori nell'UE: la professione è ancora attraente per i giovani?",
+  "subtitle": "Nel 2023 i giovani agricoltori di età inferiore ai 40 anni rappresentavano il 13,1% di tutti gli agricoltori nell'Unione europea: qual è la quota in ciascun paese dell'UE?",
+  "linkDataAccessDescription": "Accedere ai dati",
+  "customUnitLabel": "del numero totale di agricoltori",
+  "tooltipExtraInfoLabel": "Clicca per maggiori informazioni"
 }

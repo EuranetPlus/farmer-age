@@ -9,5 +9,10 @@
   "textNote": "Farmers and the agricultural labour force: tables and figures",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Click for more info"
+  "textCountryClick": "Click for more info",
+  "title": "Young farmers in the EU: Is the profession still appealing to young people?",
+  "subtitle": "In 2023 young farmers under the age of 40 years account for 13.1% of all farmers in the European Union - how is the share in each EU country?",
+  "linkDataAccessDescription": "Access the data",
+  "customUnitLabel": "of total number of farmers",
+  "tooltipExtraInfoLabel": "Click for more info"
 }
