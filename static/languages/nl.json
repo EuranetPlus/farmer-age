@@ -9,5 +9,10 @@
   "textNote": "Boeren en de agrarische beroepsbevolking: tabellen en cijfers",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Klik hier voor meer informatie"
+  "textCountryClick": "Klik hier voor meer informatie",
+  "title": "Jonge boeren in de EU: is het beroep nog steeds aantrekkelijk voor jongeren?",
+  "subtitle": "In 2023 vertegenwoordigden jonge boeren onder de 40 jaar 13,1% van alle boeren in de Europese Unie. Hoe hoog is hun aandeel in elk EU-land?",
+  "linkDataAccessDescription": "Toegang tot de gegevens",
+  "customUnitLabel": "van het totale aantal boeren",
+  "tooltipExtraInfoLabel": "Klik hier voor meer informatie"
 }

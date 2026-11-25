@@ -9,5 +9,10 @@
   "textNote": "Rolnicy i siła robocza w rolnictwie: tabele i rysunki",
   "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
+  "textCountryClick": "Kliknij, aby uzyskać więcej informacji",
+  "title": "Młodzi rolnicy w UE: Czy zawód ten jest nadal atrakcyjny dla młodych ludzi?",
+  "subtitle": "W 2023 r. młodzi rolnicy poniżej 40. roku życia będą stanowić 13,1% wszystkich rolników w Unii Europejskiej. Jaki jest odsetek w poszczególnych krajach UE?",
+  "linkDataAccessDescription": "Dostęp do danych",
+  "customUnitLabel": "całkowitej liczby rolników",
+  "tooltipExtraInfoLabel": "Kliknij, aby uzyskać więcej informacji"
 }

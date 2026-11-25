@@ -9,5 +9,10 @@
   "textNote": "Feirmeoirí agus an lucht saothair talmhaíochta: táblaí agus figiúirí",
   "textDataAccess": "Rochtain ar na sonraí",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"
+  "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais",
+  "title": "Feirmeoirí óga san AE: An bhfuil an ghairm fós tarraingteach do dhaoine óga?",
+  "subtitle": "Sa bhliain 2023, is ionann feirmeoirí óga faoi bhun 40 bliain d'aois agus 13.1% de na feirmeoirí uile san Aontas Eorpach - cén chaoi a bhfuil an sciar sin i ngach tír san AE?",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "customUnitLabel": "líon iomlán na bhfeirmeoirí",
+  "tooltipExtraInfoLabel": "Cliceáil le haghaidh tuilleadh eolais"
 }

@@ -9,5 +9,10 @@
   "textNote": "Landwirte und die landwirtschaftlichen Arbeitskräfte: Tabellen und Zahlen",
   "textDataAccess": "Greifen Sie auf die Daten zu.",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Klicken Sie hier für weitere Informationen."
+  "textCountryClick": "Klicken Sie hier für weitere Informationen.",
+  "title": "Junglandwirte in der EU: Ist der Beruf für junge Menschen noch attraktiv?",
+  "subtitle": "Im Jahr 2023 machen junge Landwirte unter 40 Jahren 13,1 % aller Landwirte in der Europäischen Union aus – wie hoch ist der Anteil in den einzelnen EU-Ländern?",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "customUnitLabel": "Gesamtzahl der Landwirte",
+  "tooltipExtraInfoLabel": "Klicken Sie hier für weitere Informationen."
 }

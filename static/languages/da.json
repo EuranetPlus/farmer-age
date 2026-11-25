@@ -9,5 +9,10 @@
   "textNote": "Landmænd og landbrugets arbejdsstyrke: tabeller og figurer",
   "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Klik for mere information"
+  "textCountryClick": "Klik for mere information",
+  "title": "Unge landmænd i EU: Er erhvervet stadig attraktivt for unge mennesker?",
+  "subtitle": "I 2023 tegnede unge landmænd under 40 år sig for 13,1 % af alle landmænd i Den Europæiske Union - hvordan er andelen i hvert EU-land?",
+  "linkDataAccessDescription": "Få adgang til dataene",
+  "customUnitLabel": "af det samlede antal landmænd",
+  "tooltipExtraInfoLabel": "Klik for mere information"
 }

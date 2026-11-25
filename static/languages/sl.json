@@ -9,5 +9,10 @@
   "textNote": "Kmetje in kmetijska delovna sila: tabele in slike",
   "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Kliknite za več informacij"
+  "textCountryClick": "Kliknite za več informacij",
+  "title": "Mladi kmetje v EU: Ali je poklic še vedno privlačen za mlade?",
+  "subtitle": "Leta 2023 so mladi kmetje, mlajši od 40 let, predstavljali 13,1 % vseh kmetov v Evropski uniji – kakšen je delež v posameznih državah EU?",
+  "linkDataAccessDescription": "Dostop do podatkov",
+  "customUnitLabel": "skupnega števila kmetov",
+  "tooltipExtraInfoLabel": "Kliknite za več informacij"
 }

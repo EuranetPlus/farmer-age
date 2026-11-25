@@ -9,5 +9,10 @@
   "textNote": "Gazdálkodók és a mezőgazdasági munkaerő: táblázatok és ábrák",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Kattintson a további információkért"
+  "textCountryClick": "Kattintson a további információkért",
+  "title": "Fiatal gazdák az EU-ban: Még mindig vonzó a szakma a fiatalok számára?",
+  "subtitle": "2023-ban a 40 év alatti fiatal gazdálkodók az Európai Unió összes gazdálkodójának 13,1%-át tették ki - hogyan alakul az arány az egyes uniós országokban?",
+  "linkDataAccessDescription": "Hozzáférés az adatokhoz",
+  "customUnitLabel": "a teljes gazdálkodói létszámból",
+  "tooltipExtraInfoLabel": "Kattintson a további információkért"
 }

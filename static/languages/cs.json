@@ -9,5 +9,10 @@
   "textNote": "Zemědělci a zemědělská pracovní síla: tabulky a obrázky",
   "textDataAccess": "Přístup k datům",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Klikněte pro více informací"
+  "textCountryClick": "Klikněte pro více informací",
+  "title": "Mladí zemědělci v EU: Je toto povolání stále atraktivní pro mladé lidi?",
+  "subtitle": "V roce 2023 tvořili mladí zemědělci mladší 40 let 13,1 % všech zemědělců v Evropské unii – jaký je podíl v jednotlivých zemích EU?",
+  "linkDataAccessDescription": "Přístup k datům",
+  "customUnitLabel": "z celkového počtu zemědělců",
+  "tooltipExtraInfoLabel": "Klikněte pro více informací"
 }

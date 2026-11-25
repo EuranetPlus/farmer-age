@@ -9,5 +9,10 @@
   "textNote": "Poljoprivrednici i poljoprivredna radna snaga: tablice i slike",
   "textDataAccess": "Pristup podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Kliknite za više informacija"
+  "textCountryClick": "Kliknite za više informacija",
+  "title": "Mladi poljoprivrednici u EU: Je li profesija još uvijek privlačna mladima?",
+  "subtitle": "U 2023. godini mladi poljoprivrednici mlađi od 40 godina činili su 13,1% svih poljoprivrednika u Europskoj uniji - kakav je udio u svakoj zemlji EU?",
+  "linkDataAccessDescription": "Pristup podacima",
+  "customUnitLabel": "od ukupnog broja poljoprivrednika",
+  "tooltipExtraInfoLabel": "Kliknite za više informacija"
 }

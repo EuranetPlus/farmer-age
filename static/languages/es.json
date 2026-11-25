@@ -9,5 +9,10 @@
   "textNote": "Los agricultores y la mano de obra agrícola: tablas y cifras",
   "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Haz clic para obtener más información."
+  "textCountryClick": "Haz clic para obtener más información.",
+  "title": "Jóvenes agricultores en la UE: ¿Sigue siendo atractiva la profesión para los jóvenes?",
+  "subtitle": "En 2023, los jóvenes agricultores menores de 40 años representaban el 13,1% del total de agricultores en la Unión Europea. ¿Cuál es la proporción en cada país de la UE?",
+  "linkDataAccessDescription": "Acceder a los datos",
+  "customUnitLabel": "del número total de agricultores",
+  "tooltipExtraInfoLabel": "Haz clic para obtener más información."
 }

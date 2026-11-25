@@ -9,5 +9,10 @@
   "textNote": "Il-bdiewa u l-forza tax-xogħol agrikola: tabelli u figuri",
   "textDataAccess": "Aċċessa d-dejta",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Ikklikkja għal aktar tagħrif"
+  "textCountryClick": "Ikklikkja għal aktar tagħrif",
+  "title": "Bdiewa żgħażagħ fl-UE: Il-professjoni għadha attraenti għaż-żgħażagħ?",
+  "subtitle": "Fl-2023, il-bdiewa żgħażagħ taħt l-età ta' 40 sena kienu jirrappreżentaw 13.1% tal-bdiewa kollha fl-Unjoni Ewropea - x'inhu s-sehem f'kull pajjiż tal-UE?",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
+  "customUnitLabel": "tan-numru totali ta' bdiewa",
+  "tooltipExtraInfoLabel": "Ikklikkja għal aktar tagħrif"
 }

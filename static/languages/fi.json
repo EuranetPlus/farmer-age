@@ -9,5 +9,10 @@
   "textNote": "Viljelijät ja maatalouden työvoima: taulukot ja luvut",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Klikkaa saadaksesi lisätietoja"
+  "textCountryClick": "Klikkaa saadaksesi lisätietoja",
+  "title": "Nuoret maanviljelijät EU:ssa: Onko ammatti edelleen houkutteleva nuorille?",
+  "subtitle": "Vuonna 2023 alle 40-vuotiaat nuoret viljelijät muodostivat 13,1 % kaikista viljelijöistä Euroopan unionissa – mikä on osuudet kussakin EU-maassa?",
+  "linkDataAccessDescription": "Käytä tietoja",
+  "customUnitLabel": "viljelijöiden kokonaismäärästä",
+  "tooltipExtraInfoLabel": "Klikkaa saadaksesi lisätietoja"
 }

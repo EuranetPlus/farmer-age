@@ -9,5 +9,10 @@
   "textNote": "Poľnohospodári a poľnohospodárska pracovná sila: tabuľky a obrázky",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/ef_m_farmang__custom_21717652/default/table",
-  "textCountryClick": "Kliknite pre viac informácií"
+  "textCountryClick": "Kliknite pre viac informácií",
+  "title": "Mladí farmári v EÚ: Je toto povolanie stále atraktívne pre mladých ľudí?",
+  "subtitle": "V roku 2023 tvorili mladí poľnohospodári vo veku do 40 rokov 13,1 % všetkých poľnohospodárov v Európskej únii – aký je podiel v jednotlivých krajinách EÚ?",
+  "linkDataAccessDescription": "Prístup k údajom",
+  "customUnitLabel": "z celkového počtu farmárov",
+  "tooltipExtraInfoLabel": "Kliknite pre viac informácií"
 }
